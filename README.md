@@ -23,15 +23,15 @@ A **business-tech hybrid** — think of me as someone who can:
 #### 🏢 Roles & Leadership Positions
 **🔧 Student Organizations**
 - 🧠 Information System Club – Club Coordinator (Club Head)
---→ Spearheaded multi-event planning, budgeting, and team management.
+-- → Spearheaded multi-event planning, budgeting, and team management.
 
--🌍 Hult Prize OnCampus – Deputy Campus Director
---→ Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
+- 🌍 Hult Prize OnCampus – Deputy Campus Director
+-- → Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
 
--💼 TEDxKathmanduUniversity – Director of Corporate Relationships
---→ Secured partnerships and sponsorships to support an impactful TEDx experience.
+- 💼 TEDxKathmanduUniversity – Director of Corporate Relationships
+-- → Secured partnerships and sponsorships to support an impactful TEDx experience.
 
--👥 Society of Business Information Systems Students – Executive Member
+- 👥 Society of Business Information Systems Students – Executive Member
 
 **🔧 External Organizations**
   Nepal Teen Leader
