@@ -71,5 +71,4 @@ Because Google Calendar said I could 🙃
 
 ## 📫 Let’s Connect!
 
-- ✉️ **Email:** prarabda@gmail.com  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/prarabda-singh-mahat-38a633241)
