@@ -22,7 +22,7 @@ A **business-tech hybrid** — think of me as someone who can:
 
 #### 🏢 Roles & Leadership Positions
 **🔧 Student Organizations**
--🧠 Information System Club – Club Coordinator (Club Head)
+- 🧠 Information System Club – Club Coordinator (Club Head)
 --→ Spearheaded multi-event planning, budgeting, and team management.
 
 -🌍 Hult Prize OnCampus – Deputy Campus Director
