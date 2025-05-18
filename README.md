@@ -20,8 +20,8 @@ A **business-tech hybrid** — think of me as someone who can:
 **I blend tech skills with strategic thinking, and throw in event management, storytelling, and a little chaos coordination on the side.
 **
 
-#### 🏢 Roles & Leadership Positions
-**🔧 Student Organizations**
+## 🏢 Roles & Leadership Positions
+### 🔧 Student Organizations**
 - 🧠 Information System Club – Club Coordinator (Club Head) → Spearheaded multi-event planning, budgeting, and team management.
 
 - 🌍 Hult Prize OnCampus – Deputy Campus Director → Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
@@ -30,7 +30,7 @@ A **business-tech hybrid** — think of me as someone who can:
 
 - 👥 Society of Business Information Systems Students – Executive Member
 
-**🔧 External Organizations**
+### 🔧 External Organizations**
  -  Nepal Teen Leader-Commette Member
 
 
