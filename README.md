@@ -22,16 +22,16 @@ A **business-tech hybrid** — think of me as someone who can:
 
 #### 🏢 Roles & Leadership Positions
 **🔧 Student Organizations**
-🧠 Information System Club – Club Coordinator (Club Head)
-→ Spearheaded multi-event planning, budgeting, and team management.
+-🧠 Information System Club – Club Coordinator (Club Head)
+--→ Spearheaded multi-event planning, budgeting, and team management.
 
-🌍 Hult Prize OnCampus – Deputy Campus Director
-→ Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
+-🌍 Hult Prize OnCampus – Deputy Campus Director
+--→ Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
 
-💼 TEDxKathmanduUniversity – Director of Corporate Relationships
-→ Secured partnerships and sponsorships to support an impactful TEDx experience.
+-💼 TEDxKathmanduUniversity – Director of Corporate Relationships
+--→ Secured partnerships and sponsorships to support an impactful TEDx experience.
 
-👥 Society of Business Information Systems Students – Executive Member
+-👥 Society of Business Information Systems Students – Executive Member
 
 **🔧 External Organizations**
   Nepal Teen Leader
@@ -41,23 +41,23 @@ A **business-tech hybrid** — think of me as someone who can:
 From hackathons to fashion shows, I’ve done it all — here’s a snapshot of my event leadership journey:
 
 🧠 Tech & Innovation Initiatives
-Keystroke Clash – A fast-paced keyboard skill competition to promote digital fluency.
+-Keystroke Clash – A fast-paced keyboard skill competition to promote digital fluency.
 
-Informatic Factoid – ICT Olympiad-style MCQ competition for school students.
+-Informatic Factoid – ICT Olympiad-style MCQ competition for school students.
 
-TechEd – Tech literacy workshops for schools across 3 municipalities.
+-TechEd – Tech literacy workshops for schools across 3 municipalities.
 
-Web Development Workshop – Intro to frontend/backend essentials for beginners.
+-Web Development Workshop – Intro to frontend/backend essentials for beginners.
 
-Digital Marketing Workshop – Hands-on session on social media strategy, SEO & campaign tools.
+-Digital Marketing Workshop – Hands-on session on social media strategy, SEO & campaign tools.
 
-Build to Solve – Problem-solving workshop focused on real-world use cases and MVP building.
+-Build to Solve – Problem-solving workshop focused on real-world use cases and MVP building.
 
-IS Hackathon – Ideation-to-prototype challenge under Information System Fair.
+-IS Hackathon – Ideation-to-prototype challenge under Information System Fair.
 
-IS Fair 2024 & IS Fair 2025 – Signature tech-expo with workshops, competitions, and exhibits.
+-IS Fair 2024 & IS Fair 2025 – Signature tech-expo with workshops, competitions, and exhibits.
 
 🚀 Entrepreneurship & Impact
-ImpactUp – A startup & SME meet-up to bridge ideas with investors and industry insights.
+-ImpactUp – A startup & SME meet-up to bridge ideas with investors and industry insights.
 
-Project Sambhawana – A visionary platform for turning student ideas into viable solutions.
+-Project Sambhawana – A visionary platform for turning student ideas into viable solutions.
