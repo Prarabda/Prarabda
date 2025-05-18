@@ -1,38 +1,46 @@
-### 👋 Hey there, I’m Prarabda Singh Mahat
+# 👋 Hey there, I’m Prarabda Singh Mahat
 
-> I can fix your bugs in code and balance the balancesheet.
-> From dynamic arrays to demand curves — I juggle DSA and economics like it's no big deal.
-> From Database to Business Management.
-> Tech?✔️ Check. Business? ✔️Check. Coffee? Brewing☕
-**(Because I’m a BBIS student @ Kathmandu University School of Management, obviously.)
-**
-#### 👨‍💻 Who am I?
+> I can fix your bugs in code and balance the balance sheet.  
+> From dynamic arrays to demand curves — I juggle DSA and economics like it’s no big deal.  
+> From databases to business management.  
+> Tech? ✔️ Check. Business? ✔️ Check. Coffee? Brewing ☕  
+**(Because I’m a BBIS student at Kathmandu University School of Management, obviously.)**
+
+---
+
+## 👨‍💻 Who am I?
 
 A **business-tech hybrid** — think of me as someone who can:
 
-- Build a dashboard 📈 & Present a pitch 💬  
-- Design a website 🎨 And still explain why your business model won’t scale 🙃  
+- Build a dashboard 📈 & present a pitch 💬  
+- Design a website 🎨 and still explain why your business model won’t scale 🙃  
 - Write SQL queries and executive summaries — in the same hour  
-- Debug code *and* your team’s group chat dynamics.
+- Debug code *and* your team’s group chat dynamics  
 - Turn a messy dataset into a business insight (or at least a good-looking chart)  
-- Say things like "agile", "ROI", and "MVP" — and actually mean them👓
-  
-**I blend tech skills with strategic thinking, and throw in event management, storytelling, and a little chaos coordination on the side.
-**
+- Say things like "agile", "ROI", and "MVP" — and actually mean them 👓
+
+**I blend tech skills with strategic thinking, and throw in event management, storytelling, and a little chaos coordination on the side.**
+
+---
 
 ## 🏢 Roles & Leadership Positions
-### 🔧 Student Organizations**
-- 🧠 Information System Club – Club Coordinator (Club Head) → Spearheaded multi-event planning, budgeting, and team management.
 
-- 🌍 Hult Prize OnCampus – Deputy Campus Director → Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
+### 🔧 Student Organizations
+- 🧠 **Information System Club** – *Club Coordinator (Club Head)*  
+  → Spearheaded multi-event planning, budgeting, and team management.
 
-- 💼 TEDxKathmanduUniversity – Director of Corporate Relationships → Secured partnerships and sponsorships to support an impactful TEDx experience.
+- 🌍 **Hult Prize OnCampus** – *Deputy Campus Director*  
+  → Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
 
-- 👥 Society of Business Information Systems Students – Executive Member
+- 💼 **TEDxKathmanduUniversity** – *Director of Corporate Relationships*  
+  → Secured partnerships and sponsorships to support an impactful TEDx experience.
 
-### 🔧 External Organizations**
- -  Nepal Teen Leader-Commette Member
+- 👥 **Society of Business Information Systems Students** – *Executive Member*
 
+### 🔧 External Organizations
+- 🌟 **Nepal Teen Leader** – *Committee Member*
+
+---
 
 ## 🎯 Events I've Planned, Led, or Executed
 
@@ -59,5 +67,9 @@ Because Google Calendar said I could 🙃
 - **FashionForward** – A campus fashion show blending creativity, tech, and culture 👗💻  
   → A one-of-a-kind event that brought together **fashion, tech, and entrepreneurship** for a unique cultural and tech fusion.
 
+---
 
+## 📫 Let’s Connect!
 
+- ✉️ **Email:** prarabda@gmail.com  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/prarabda-singh-mahat-38a633241)
