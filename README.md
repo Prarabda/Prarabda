@@ -2,10 +2,10 @@
 
 > I can fix your bugs in code and balance the balancesheet.
 > From dynamic arrays to demand curves — I juggle DSA and economics like it's no big deal.
-> From Database to Business Management
+> From Database to Business Management.
 > Tech?✔️ Check. Business? ✔️Check. Coffee? Brewing☕
-(***Because I’m a BBIS student @ Kathmandu University School of Management, obviously.***)
-
+**(Because I’m a BBIS student @ Kathmandu University School of Management, obviously.)
+**
 #### 👨‍💻 Who am I?
 
 A **business-tech hybrid** — think of me as someone who can:
@@ -22,42 +22,42 @@ A **business-tech hybrid** — think of me as someone who can:
 
 #### 🏢 Roles & Leadership Positions
 **🔧 Student Organizations**
-- 🧠 Information System Club – Club Coordinator (Club Head)
--- → Spearheaded multi-event planning, budgeting, and team management.
+- 🧠 Information System Club – Club Coordinator (Club Head) → Spearheaded multi-event planning, budgeting, and team management.
 
-- 🌍 Hult Prize OnCampus – Deputy Campus Director
--- → Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
+- 🌍 Hult Prize OnCampus – Deputy Campus Director → Led the execution of the Hult Prize challenge, mentoring 40+ student teams.
 
-- 💼 TEDxKathmanduUniversity – Director of Corporate Relationships
--- → Secured partnerships and sponsorships to support an impactful TEDx experience.
+- 💼 TEDxKathmanduUniversity – Director of Corporate Relationships → Secured partnerships and sponsorships to support an impactful TEDx experience.
 
 - 👥 Society of Business Information Systems Students – Executive Member
 
 **🔧 External Organizations**
-  Nepal Teen Leader
+ -  Nepal Teen Leader-Commette Member
 
 
-#### 🎯 Events I’ve Planned, Led & Executed
-From hackathons to fashion shows, I’ve done it all — here’s a snapshot of my event leadership journey:
+## 🎯 Events I've Planned, Led, or Executed
 
-🧠 Tech & Innovation Initiatives
--Keystroke Clash – A fast-paced keyboard skill competition to promote digital fluency.
+Because Google Calendar said I could 🙃
 
--Informatic Factoid – ICT Olympiad-style MCQ competition for school students.
+### 💻 Tech & Innovation
+- **Keystroke Clash** – Keyboard speed showdown 🖱️
+- **Informatic Factoid** – ICT Olympiad-style MCQ contest for school students
+- **TechEd** – Tech workshops across 3 municipalities for school students
+- **Web Development Workshop** – HTML, CSS, JS: the gateway drug to coding 😄
+- **Digital Marketing Workshop** – Everything from SEO to "why is this ad stalking me?"
+- **Build to Solve** – Workshop on turning real-world problems into MVPs
+- **IS Hackathon** – Rapid ideation + prototyping challenge
+- **IS Fair 2024 & 2025** – Multi-event tech expos packed with innovation
 
--TechEd – Tech literacy workshops for schools across 3 municipalities.
+### 🚀 Entrepreneurship & Impact
+- **ImpactUp** – Startup and SME networking and ideation platform
+- **Project Sambhawana** – Where student ideas meet opportunity
 
--Web Development Workshop – Intro to frontend/backend essentials for beginners.
+### 💬 Panels & Conversations
+- 🎙️ **Moderator** – *Panel on "Digital Transaction: Really Safe in Nepal?"*
 
--Digital Marketing Workshop – Hands-on session on social media strategy, SEO & campaign tools.
+### 🎨 Creativity & Culture
+- **FashionForward** – A campus fashion show blending creativity, tech, and culture 👗💻  
+  → A one-of-a-kind event that brought together **fashion, tech, and entrepreneurship** for a unique cultural and tech fusion.
 
--Build to Solve – Problem-solving workshop focused on real-world use cases and MVP building.
 
--IS Hackathon – Ideation-to-prototype challenge under Information System Fair.
 
--IS Fair 2024 & IS Fair 2025 – Signature tech-expo with workshops, competitions, and exhibits.
-
-🚀 Entrepreneurship & Impact
--ImpactUp – A startup & SME meet-up to bridge ideas with investors and industry insights.
-
--Project Sambhawana – A visionary platform for turning student ideas into viable solutions.
